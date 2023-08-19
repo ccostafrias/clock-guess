@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clock-guess/static/css/main.f1018464.css",
+    "main.js": "/clock-guess/static/js/main.defea4fe.js",
+    "index.html": "/clock-guess/index.html",
+    "main.f1018464.css.map": "/clock-guess/static/css/main.f1018464.css.map",
+    "main.defea4fe.js.map": "/clock-guess/static/js/main.defea4fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1018464.css",
+    "static/js/main.defea4fe.js"
+  ]
+}
