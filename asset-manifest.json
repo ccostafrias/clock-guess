@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/clock-guess/static/css/main.f1018464.css",
-    "main.js": "/clock-guess/static/js/main.defea4fe.js",
+    "main.css": "/clock-guess/static/css/main.9a869b1e.css",
+    "main.js": "/clock-guess/static/js/main.15a0820c.js",
     "index.html": "/clock-guess/index.html",
-    "main.f1018464.css.map": "/clock-guess/static/css/main.f1018464.css.map",
-    "main.defea4fe.js.map": "/clock-guess/static/js/main.defea4fe.js.map"
+    "main.9a869b1e.css.map": "/clock-guess/static/css/main.9a869b1e.css.map",
+    "main.15a0820c.js.map": "/clock-guess/static/js/main.15a0820c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1018464.css",
-    "static/js/main.defea4fe.js"
+    "static/css/main.9a869b1e.css",
+    "static/js/main.15a0820c.js"
   ]
 }
